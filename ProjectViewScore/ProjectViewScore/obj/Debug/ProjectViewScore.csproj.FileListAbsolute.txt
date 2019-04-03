@@ -1,0 +1,11 @@
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\bin\Debug\ProjectViewScore.exe.config
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\bin\Debug\ProjectViewScore.exe
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\bin\Debug\ProjectViewScore.pdb
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.csprojAssemblyReference.cache
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.Form1.resources
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.Properties.Resources.resources
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.csproj.GenerateResource.cache
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.csproj.CoreCompileInputs.cache
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.exe
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.pdb
+D:\Study\Code\C#\Project\ProjectViewScore\ProjectViewScore\obj\Debug\ProjectViewScore.Form2.resources
